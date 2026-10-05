@@ -1,0 +1,11 @@
+C:\Users\4444\Downloads\driver_3_2\core\core.cpp;C:\Users\4444\Downloads\driver_3_2\build\objects\kernel\driver\core.obj
+C:\Users\4444\Downloads\driver_3_2\dependencies\physical\physical.cpp;C:\Users\4444\Downloads\driver_3_2\build\objects\kernel\driver\physical.obj
+C:\Users\4444\Downloads\driver_3_2\dependencies\process\process.cpp;C:\Users\4444\Downloads\driver_3_2\build\objects\kernel\driver\process.obj
+C:\Users\4444\Downloads\driver_3_2\handler\handler.cpp;C:\Users\4444\Downloads\driver_3_2\build\objects\kernel\driver\handler.obj
+C:\Users\4444\Downloads\driver_3_2\main.cpp;C:\Users\4444\Downloads\driver_3_2\build\objects\kernel\driver\main.obj
+C:\Users\4444\Downloads\driver_3_2\runtime\replacement.cpp;C:\Users\4444\Downloads\driver_3_2\build\objects\kernel\driver\replacement.obj
+C:\Users\4444\Downloads\driver_3_2\runtime\runtime.cpp;C:\Users\4444\Downloads\driver_3_2\build\objects\kernel\driver\runtime.obj
+C:\Users\4444\Downloads\driver_3_2\dependencies\vcruntime\vcruntime.cpp;C:\Users\4444\Downloads\driver_3_2\build\objects\kernel\driver\vcruntime.obj
+C:\Users\4444\Downloads\driver_3_2\dependencies\memory\memory.cpp;C:\Users\4444\Downloads\driver_3_2\build\objects\kernel\driver\memory.obj
+C:\Users\4444\Downloads\driver_3_2\dependencies\pattern\pattern.cpp;C:\Users\4444\Downloads\driver_3_2\build\objects\kernel\driver\pattern.obj
+C:\Users\4444\Downloads\driver_3_2\dependencies\winapi\winapi.cpp;C:\Users\4444\Downloads\driver_3_2\build\objects\kernel\driver\winapi.obj
